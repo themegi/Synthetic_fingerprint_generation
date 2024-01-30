@@ -28,9 +28,12 @@ SoCoFing: https://www.kaggle.com/datasets/ruizgara/socofing
 
 ## Results
 ![img_1.png](img_1.png)
+
 <small>Generated fingerprints by model trained on FCV2002 database</small>
 ![img_2.png](img_2.png)
+
 <small>Generated fingerprints by model trained on SoCoFing database</small>
 ![img_3.png](img_3.png)
+
 <small>Generated fingerprints by model trained on mixed database</small>
 
