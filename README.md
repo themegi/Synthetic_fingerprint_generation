@@ -8,9 +8,11 @@ One of them could be the use of machine learning techniques to train models used
 Project of network belongs to A. Radford, L. Metz and S.Chintala and is described in their publication: _Unsupervised representation learning with deep convolutional generative adversarial networks. arXiv preprint arXiv:1511.06434,(2015)._
 
 ![6.8.png](6.8.png)
+
 <small>Generator structure </small>
 
 ![6.9.png](6.9.png)
+
 <small>Discriminator structure</small>
 
 ## Used databases
