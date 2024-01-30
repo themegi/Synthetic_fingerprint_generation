@@ -7,13 +7,11 @@ One of them could be the use of machine learning techniques to train models used
 ## Project of the network
 Project of network belongs to A. Radford, L. Metz and S.Chintala and is described in their publication: _Unsupervised representation learning with deep convolutional generative adversarial networks. arXiv preprint arXiv:1511.06434,(2015)._
 
+<small>Generator structure </small>
 ![6.8.png](6.8.png)
 
-<small>Generator structure </small>
-
-![6.9.png](6.9.png)
-
 <small>Discriminator structure</small>
+![6.9.png](6.9.png)
 
 ## Used databases
 FCV2002: https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
@@ -29,13 +27,12 @@ SoCoFing: https://www.kaggle.com/datasets/ruizgara/socofing
 | Mixed    | 3.828731775283814 | 0.0940074548125267 |
 
 ## Results
+<small>Generated fingerprints by model trained on FCV2002 database</small>
 ![img_1.png](img_1.png)
 
-<small>Generated fingerprints by model trained on FCV2002 database</small>
+<small>Generated fingerprints by model trained on SoCoFing database</small>
 ![img_2.png](img_2.png)
 
-<small>Generated fingerprints by model trained on SoCoFing database</small>
-![img_3.png](img_3.png)
-
 <small>Generated fingerprints by model trained on mixed database</small>
+![img_3.png](img_3.png)
 
